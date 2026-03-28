@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2"
+  },
+  "dependencies": {
+    "expo": "^55.0.10-canary-20260328-2049187",
+    "expo-linear-gradient": "55.0.10-canary-20260328-2049187"
+  }
+}
